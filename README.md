@@ -2,7 +2,7 @@
 Meine Vorschläge für den Server:
 
 -	Abdeckplanen für Fahr-/Flugzeuge, damit man es besser verstecken/tarnen kann
--	Man kann mit Repairkit nicht mehr alles reparieren, z.B. nur bis zur gelben Stufe -> ADAC würde wieder gebraucht, da nur       diese ganz reparieren können (falls kein ADAC online, kann man dann in eine Autogarage fahren und reparieren
+-	Man kann mit Repairkit nicht mehr alles reparieren, z.B. nur bis zur gelben Stufe -> ADAC würde wieder gebraucht, da nur       diese ganz reparieren können (falls kein ADAC online, kann man dann in eine Autogarage fahren und reparieren)
 -	Die Polizei sieht die Position der Drogendealer nicht mehr, diese wechseln Position in bestimmten Zeitlichen Abständen ->      Schwieriger/spannender die Drogenfarmer beim Verkauf aufzuhalten
 -	Dynamisches Marktsystem
 -	Nationalpark, auf Halbinsel im Süden, Tiere die unter Schutz stehen -> Jagdverbot, jedoch können Wilderer diese für viel       Geld verkaufen -> quasi ein neuer Job
