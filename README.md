@@ -13,7 +13,7 @@ Meine Vorschläge für den Server:
     - Propaganda (indem man einen Journalisten besticht oder auf dem Radioberg gegen Geld eine eigene Nachricht verbreitet)
     - Zeitungsläden/Kiosk, bei denen man Zeitungen mit den aktuellen News kaufen kann
 -	Eigene Läden, z.B. „Iwan’s Knoblauchbrot“ bei dem man auch echtes Knoblauchbrot kaufen und essen kann
--	Donator-Status mit Ingame-Geld
+-	Donator-Status mit Ingame-Geld erwerbbar
 -	Burger/Gyros-Buden für neues Essen (siehe „Eigene Läden“, einfach statt dass der Laden Spieler gehört, steht NPC drinnen)
 -	Wenn man ein Haus kauft, muss man vorher noch Möbel und Baumaterial dorthin transportieren
 -	Div. Rennstrecken für Events
