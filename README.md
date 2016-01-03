@@ -1,4 +1,4 @@
-# ideas
+# Ideen
 Ideen für den HomeOfAltis-Server:
 
 -	Abdeckplanen für Fahr-/Flugzeuge, damit man es besser verstecken/tarnen kann
