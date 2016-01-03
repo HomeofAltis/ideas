@@ -1,5 +1,5 @@
 # Ideen
-Ideen für den HomeOfAltis-Server:
+Meine Vorschläge für den Server:
 
 -	Abdeckplanen für Fahr-/Flugzeuge, damit man es besser verstecken/tarnen kann
 -	Man kann mit Repairkit nicht mehr alles reparieren, z.B. nur bis zur gelben Stufe -> ADAC würde wieder gebraucht, da nur       diese ganz reparieren können (falls kein ADAC online, kann man dann in eine Autogarage fahren und reparieren
