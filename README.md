@@ -26,6 +26,7 @@ Meine Vorschläge für den Server:
 -	Evt. Die Position der Staatsbank auf eine Insel oder einen ufernahen Platz verschieben, damit man auch mit Booten/U-Booten     vorgehen kann
 -	Taser-Geschütze auf Hunter, Strider, etc.   [x]
 -	Blendgranaten für Gewehre mit Granatwerfer (für die Polizei)
+-	Letzte Position wird gespeichert, beim erneuten Joinen kann man "Last position" auswählen
 
 Diese Ideen stammen nicht alle von mir, sondern ich habe sie im Netz aufgeschnappt oder auf anderen Servern gesehen.
 
